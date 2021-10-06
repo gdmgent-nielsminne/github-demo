@@ -1,4 +1,4 @@
 
 Dit is een extra aanvulling van mijn eerste tekst.
-
+Dit is een aanpassing.
 ik pas dit aan met extra code.
