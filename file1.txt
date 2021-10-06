@@ -1,3 +1,5 @@
 Dit is mijn eerste tekst file.
 Dit is een aanvulling van mijn eerste tekst.
 Dit is een extra aanvulling van mijn eerste tekst.
+
+ik pas dit aan met extra code.
